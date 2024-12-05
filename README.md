@@ -11,3 +11,7 @@ http://www.youtube.com/watch?v=BHQPqQ_5ulc
 CapacitiveSensor was originally written by Paul Badger and is now maintained by Paul Stoffregen.
 
 ![CapacitiveSensor Demo](http://www.pjrc.com/teensy/td_libs_CapacitiveSensor_1.jpg)
+
+## Compatibility
+
+This library is compatible with various Arduino boards, including Seeed Xiao ESP32S3.
